@@ -1,0 +1,19 @@
+{
+  "name": "FonbetParsingService",
+  "version": "1.0.0",
+  "description": "Fonbet factors parsing service",
+  "main": "src/main/main.ts",
+  "repository": "git@github.com:blolya/FonbetParsingService.git",
+  "author": "Dzyunka <mast-94@mail.ru>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^13.5.0",
+    "@types/request": "^2.48.4",
+    "tslint": "^6.0.0",
+    "typescript": "^3.7.5"
+  },
+  "dependencies": {
+    "request": "^2.88.0",
+    "tslint-config-airbnb": "^5.11.2"
+  }
+}
